@@ -1,18 +1,16 @@
-# Getting-Started-with-open-source
-Step-by-step guide for beginners for getting started with open source .
-
+## Step-by-Step Guide for beginners for getting started with Open-Source 
 
 <div align="center">
-# Here-Contributions-Begins💻
+<h3> Here-Contributions-Begins💻</h3>
 
-># If you are a beginner then this is for you... By this tutorial you are going to make your First PR for sure.
+## If you are a beginner then this is for you. By this tutorial you are going to make your First PR for sure.
 
  <h3 align="center">
     <a href="https://discord.gg/gtYUZQSjTt">👋 Join our discord community <strong>CodeSmashers</strong> </a>
     </h3>
     
     
-## ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK 
+## ⭐ STAR THIS REPOSITORY THIS WILL PAY OFF MY WORK 
 </div>
 <hr>
 
