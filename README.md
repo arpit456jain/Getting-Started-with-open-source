@@ -42,3 +42,21 @@ step by step guide for beginners for getting started with open source
 
 </ul><br>
 <hr>
+
+# 2. You should have an account on GitHub if you you dont't have an account then simply make it.
+# 3. You will need a text editor accoring to your comformt , I prefer Vs code 
+- <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
+- <h3> Install it </h3>
+
+# 4. Now You just have to setup the project from GitHub to your local system
+<h2>Setting Project on Local System :- </h2><br>
+<ul>
+<li><h3>Fork the Repository of Project</h3></li><br>
+<img width="50%" align="center" src="fork.png"><br><br>
+( You will see this on Top Right of Github Repository !)<br><br>
+<li><h3>Clone the Repository </h3></li><br>
+<img width="50%" align="center"  src="clone.png"><br><br>
+( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br><br>
+<li><h3>Open Git bash where you want to clone the project ( Avoid On Desktop )</h3></li>
+<li><h3>Run Command</h3></li>
+</ul>
