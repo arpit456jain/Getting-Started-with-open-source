@@ -62,4 +62,8 @@ step by step guide for beginners for getting started with open source
   </li>
  <li> After you hit enter you will notice that some downloading will start its actuallu clonning of repo form your GtiHub to your local system</li>
  <img width="50%" align="center"  src="clonning.png">
+ <li> After this you will notice a folder is created with the name of repository </li>
+ <img width="50%" align="center"  src="folder.png"><br><br>
+ <li>Then just close the git bash and open this folder and open Vs code here</li>
+ <img width="50%" align="center"  src="vscode.png"><br><br>
 </ul>
