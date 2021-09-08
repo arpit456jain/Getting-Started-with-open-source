@@ -67,3 +67,14 @@ step by step guide for beginners for getting started with open source
  <li>Then just close the git bash and open this folder and open Vs code here</li><br>
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
+
+---
+
+## <ins> What if I have a Conflict? </ins>
+
+#### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
+
+- #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+
+---
