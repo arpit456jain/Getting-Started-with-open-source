@@ -78,3 +78,13 @@ step by step guide for beginners for getting started with open source
 - #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
 
 ---
+
+## Now just make a Pull Request and Add your name in Read me file
+
+## <ins>Codesmashers community<ins>
+
+- ### **A**
+
+  - [Arpit Jain](https://github.com/arpit456jain)
+ 
+ - ### **B**
