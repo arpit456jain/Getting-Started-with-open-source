@@ -51,12 +51,18 @@ step by step guide for beginners for getting started with open source
 # 4. Now You just have to setup the project from GitHub to your local system
 <h2>Setting Project on Local System :- </h2><br>
 <ul>
-<li><h3>Fork the Repository of Project</h3></li><br>
+<li><h3>Fork the Repository of Project</h3></li>
+ <li> <p>This will create a copy of this repository in your account</p></li>
 <img width="50%" align="center" src="fork.png"><br><br>
-( You will see this on Top Right of Github Repository !)<br><br>
-<li><h3>Clone the Repository </h3></li><br>
+<li><h3>Copy the link of the Repository </h3></li><br>
 <img width="50%" align="center"  src="clone.png"><br><br>
-( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br><br>
-<li><h3>Open Git bash where you want to clone the project ( Avoid On Desktop )</h3></li>
-<li><h3>Run Command</h3></li>
+<li><h3>Open Git bash where you want to clone the project and clone it </h3></li>
+ <li> <h3>Clone it</h3></li>
+<li>Run Command </li>
+ 
+ ```
+ git clone <the link you just copied>
+ ```
+ <img width="50%" align="center"  src="gitclone.png"><br><br>
+ 
 </ul>
