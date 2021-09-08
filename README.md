@@ -39,7 +39,11 @@ step by step guide for beginners for getting started with open source
 # 2. You should have an account on GitHub if you you dont't have an account then simply make it.
 # 3. You will need a text editor accoring to your comformt , I prefer Vs code 
 - <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
+<<<<<<< HEAD
 - <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA">Video</a> as per your OS.  </h3>
+=======
+- <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA">Video</a> as per your OS. </h3>
+>>>>>>> 2d0e61673191b0c03d4ad48657f4986fc5a92242
 - <h3> Install it </h3>
 
 # 4. Now You just have to setup the project from GitHub to your local system
