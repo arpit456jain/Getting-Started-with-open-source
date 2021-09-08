@@ -3,20 +3,12 @@ step by step guide for beginners for getting started with open source
 
 
 <div align="center">
-
-<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/issues"><img src="https://img.shields.io/github/issues/Ayan-thecodeking/Here-Contributions-Begins"></a>
-<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/pulls"><img src="https://img.shields.io/github/issues-pr/Ayan-thecodeking/Here-Contributions-Begins"></a>
-<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/network/members"><img src="https://img.shields.io/github/forks/Ayan-thecodeking/Here-Contributions-Begins"></a>
-<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins/stargazers"><img src="https://img.shields.io/github/stars/Ayan-thecodeking/Here-Contributions-Begins"></a>
-
-
-
 # Here-Contributions-Begins💻
 
 ># If you are a beginner then this is for you...by this tutorial you are going to make your First PR for sure
 
  <h3 align="center">
-    <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
+    <a href="https://discord.gg/gtYUZQSjTt">👋 join our discord community <strong>CodeSmashers</strong> </a>
     </h3>
     
     
@@ -58,11 +50,16 @@ step by step guide for beginners for getting started with open source
 <img width="50%" align="center"  src="clone.png"><br><br>
 <li><h3>Open Git bash where you want to clone the project and clone it </h3></li>
  <li> <h3>Clone it</h3></li>
-<li>Run Command </li>
+<li>Run Command and Hit Enter
  
  ```
  git clone <the link you just copied>
  ```
  <img width="50%" align="center"  src="gitclone.png"><br><br>
  
+ In this case it is
+ ``` git clone  https://github.com/arpit456jain/Getting-Started-with-open-source.git ```
+  </li>
+ <li> After you hit enter you will notice that some downloading will start its actuallu clonning of repo form your GtiHub to your local system</li>
+ <img width="50%" align="center"  src="clonning.png">
 </ul>
