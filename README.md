@@ -87,4 +87,7 @@ step by step guide for beginners for getting started with open source
 
   - [Arpit Jain](https://github.com/arpit456jain)
  
- - ### **B**
+- ### **B**
+
+  - [Ankita Puri](https://github.com/ankitapuri)
+ 
