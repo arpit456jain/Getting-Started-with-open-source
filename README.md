@@ -99,7 +99,7 @@ git push origin new_branch_name
 <ul>
 <li>when you push the changes you will notice a new branch will be created on GtiHub and there will be a green button for creating pull request. Click on it.</li>
 <br>
-<img width="50%" align="center"  src="createPR.png"><br><br> 
+<img width="80%" align="center"  src="createPR.png"><br><br> 
 <li>After this a new page will be open like this</li>
 <img width="80%" align="center"  src="PR.png"><br><br>
 <li>Now add a title and description of your PR and click on create pull request.</li>
