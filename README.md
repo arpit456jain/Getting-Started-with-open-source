@@ -111,6 +111,23 @@ git push origin new_branch_name
 </ul>
 
 ---
+## Some Common Error And Their Solutions
+
+### 1. Updates were rejected or failed to push some refs.
+<img width="80%" align="center"  src="error1.png"><br>
+<p> This is most common error you will find and its pretty easy to solve . </p>
+<br>
+<p><b>Solution:</b> You just have to pull latest changes to your local system first and then you can push them </p>
+
+```
+git pull origin master
+```
+<p>
+Note : if your repo is a forked one and its some commit behind then first ftech n merge then pull changes
+
+</p>
+
+---
 
 ## <ins> What if I have Merge Conflicts? </ins>
 
