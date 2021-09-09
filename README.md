@@ -179,7 +179,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 	<tr>
 		 <td>
   <a href="https://github.com/arpit456jain/Getting-Started-with-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arpit456jain/Getting-Started-with-open-source" />
+  <img src="https://contrib.rocks/image?repo=arpit456jain/getting-started-with-open-source" />
   </a>
 		</td>
 	</tr>
