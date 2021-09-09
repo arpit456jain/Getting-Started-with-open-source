@@ -68,6 +68,14 @@
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
 
+# 5. Now Make necessary changes and make PR , let say you have to add your name in read me , you already set up the project in local system . Now before starting your work always rembember to pull latest change from the main Repo.
+<ul>
+ <li>Fetch And Merge </li><br>
+ <img width="50%" align="center"  src="fetch.png"><br>
+ <li>Pull these changes in your local system</li>
+ ``` git pull origin master ```
+ <img width="50%" align="center"  src="pullorigin.png"><br><br>
+</ul>
 ---
 
 ## <ins> What if I have a Conflict? </ins>
