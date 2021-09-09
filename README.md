@@ -73,9 +73,14 @@
  <li>Fetch And Merge </li><br>
  <img width="50%" align="center"  src="fetch.png"><br>
  <li>Pull these changes in your local system</li>
- ``` git pull origin master ```
+ 
+ ```
+ git pull origin master
+ ```
+ 
  <img width="50%" align="center"  src="pullorigin.png"><br><br>
 </ul>
+
 ---
 
 ## <ins> What if I have a Conflict? </ins>
