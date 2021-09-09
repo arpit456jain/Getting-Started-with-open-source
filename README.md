@@ -35,7 +35,7 @@
 <hr>
 
 # 2. You should have an account on GitHub if you you dont't have an account then simply make it.
-# 3. You will need a text editor accoring to your comformt , I prefer Vs code 
+# 3. You will need a text editor accoring to your comfort , I prefer Vs code 
 - <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
 - <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA">Video</a> as per your OS.  </h3>
 - <h3> Install it </h3>
