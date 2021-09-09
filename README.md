@@ -18,6 +18,7 @@
 <h2>Git Setup :- </h2>
 <ul>
 <li><h3><a href="https://git-scm.com/downloads">Download Git</a> as per your OS. </h3></li>
+<li><h3>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE">Video</a> as per your OS.  </h3></li>
 <li><h3>Install Git</h3></li>
 <li><h3>Open the Git Bash ( Right Click )</h3></li>
 <li><h3>Run the Commands</h3></li>
@@ -33,9 +34,10 @@
 </ul><br>
 <hr>
 
-# 2. You should have an account on GitHub, if you you dont't have an account then simply make it.
-# 3. You will need a text editor accoring to your comfort, I prefer VS code 
-- <h3><a href="https://code.visualstudio.com/download">Download VS Code</a> as per your OS. </h3>
+# 2. You should have an account on GitHub if you you dont't have an account then simply make it.
+# 3. You will need a text editor accoring to your comformt , I prefer Vs code 
+- <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
+- <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA">Video</a> as per your OS.  </h3>
 - <h3> Install it </h3>
 
 # 4. Now you just have to setup the project from GitHub to your local system.
@@ -91,4 +93,6 @@
  
 
  
-- ### **B**
+- ### **K**
+
+  - [Km Astha Rani](https://github.com/astha2412)
