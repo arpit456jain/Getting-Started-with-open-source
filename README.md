@@ -159,4 +159,12 @@ git push origin new_branch_name
  - ### **Y** <br>
  - ### **Z** <br>
 
+   <h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+<table>
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
+ <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
+
+</tbody></table>
   show some ❤️&nbsp; by giving the star to this repo
