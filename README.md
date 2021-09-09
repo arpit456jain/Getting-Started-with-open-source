@@ -153,6 +153,7 @@ git push origin new_branch_name
  - ### **Q** <br>
  - ### **R** <br>
  - ### **S** <br>
+   - [Siddharth Parashar](https://github.com/sidparashar2001) 
  - ### **T** <br>
  - ### **U** <br>
  - ### **V** <br>
