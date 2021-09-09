@@ -106,6 +106,7 @@ git push origin new_branch_name
 <li>Congrats your Pull Request is created</li>
 <img width="80%" align="center"  src="PRcreated.png"><br><br>
 </ul>
+
 ---
 
 ## <ins> What if I have a Conflict? </ins>
@@ -119,16 +120,16 @@ git push origin new_branch_name
 
 ## Now just make a Pull Request and add your name in Read me file.
 
-## <ins>Codesmashers community<ins>
+## <ins>CodeSmashers Community<ins>
 
 
 <!-- Please don't change the line above -->
 
  - ### **A** <br>
  
-  - [Arpit Jain](https://github.com/arpit456jain)
-  - [Ankita Puri](https://github.com/ankitapuri)
-  - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
+   - [Arpit Jain](https://github.com/arpit456jain)
+   - [Ankita Puri](https://github.com/ankitapuri)
+   - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
  
  - ### **B** <br>
  - ### **C** <br>
@@ -140,7 +141,7 @@ git push origin new_branch_name
  - ### **I** <br>
  - ### **J** <br>
  - ### **K** <br>
-  - [Km Astha Rani](https://github.com/astha2412)
+   - [Km Astha Rani](https://github.com/astha2412)
  - ### **L** <br>
  - ### **M** <br>
  - ### **N** <br>
