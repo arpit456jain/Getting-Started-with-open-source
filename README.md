@@ -68,6 +68,37 @@
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
 
+# 5. Now Make necessary changes and commit them , let say you have to add your name in read me , you already set up the project in local system . Now before starting your work always rembember to pull latest change from the main Repo.
+<ul>
+ <li>Fetch And Merge </li><br>
+ <img width="50%" align="center"  src="fetch.png"><br>
+ <li>Pull these changes in your local system</li>
+ 
+ ```
+ git pull origin master
+ ```
+ 
+ <img width="50%" align="center"  src="pullorigin.png"><br><br>
+ 
+ <li> make a new branch and made the changes , then commit them. make sure to commit to the new branch <b>never commit in master branch<b> </li>
+ 
+ ```
+ git checkout -b new_branch_name
+ git add -A
+ git commit -a -m "message"
+ ```
+ <li>After commiting your chnanges on your local host you have to push that changes to GitHub , make sure you push the new branch </li>
+ 
+ ```
+git push origin new_branch_name
+ ```
+
+</ul>
+  
+# 6. Make the Pull Request
+<ul>
+<li>when you push the changes you will notice a new branch will be created on GtiHub and there will be a green button for creating pull request.</li> 
+</ul>
 ---
 
 ## <ins> What if I have a Conflict? </ins>
@@ -96,3 +127,5 @@
 - ### **K**
 
   - [Km Astha Rani](https://github.com/astha2412)
+
+  show some ❤️&nbsp; by giving the star to this repo
