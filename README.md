@@ -134,4 +134,4 @@ git push origin new_branch_name
 
   - [Km Astha Rani](https://github.com/astha2412)
 
-  show some ❤️&nbsp; by giving the star to this repo
+  show some ❤️&nbsp; by giving the star to this repos
