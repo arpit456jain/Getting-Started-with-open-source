@@ -17,11 +17,11 @@
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
 <h3>Git Setup :- </h3>
 <ul>
-<li><h3><a href="https://git-scm.com/downloads">Download Git</a> as per your OS. </h3></li>
-<li><h3>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> as per your OS.  </h3></li>
-<li><h3>Install Git</h3></li>
-<li><h3>Open the Git Bash ( Right Click )</h3></li>
-<li><h3>Run the Commands</h3></li>
+<li><a href="https://git-scm.com/downloads">Download Git</a> as per your OS.</li>
+<li>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> as per your OS.</li>
+<li>Install Git</li>
+<li>Open the Git Bash ( Right Click )</li>
+<li>Run the Commands</li>
 
 `$ git config --global user.name "Your Name"`
 
@@ -29,7 +29,7 @@
 
 `$ git config --list`
 
-<li><h3>You should be able to see your entered name and email under <mark>user.name</mark> & <mark>user.email</mark></h3></li>
+<li>You should be able to see your entered name and email under <mark>user.name</mark> & <mark>user.email</mark></li>
 
 </ul><br>
 <hr>
@@ -37,20 +37,20 @@
 ### 2. You should have an account on GitHub if you you dont't have an account then simply make it.
 
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code 
-- <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
-- <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS.  </h3>
-- <h3> Install it </h3>
+- <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
+- Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS. 
+- Install it.
 
 ### 4. Now you just have to setup the project from GitHub to your local system.
-<h3>Setting Project on Local System :- </h3><br>
+<h3>Setting Project on your Local System :- </h3><br>
 <ul>
-<li><h3>Fork this Repository or Project</h3></li>
- <li> <p>This will create a copy of this repository in your account.</p></li>
+<li>Fork this Repository or Project</li>
+ <li> This will create a copy of this repository in your account.</li>
 <img width="50%" align="center" src="fork.png"><br><br>
-<li><h3>Copy the link of the Repository </h3></li><br>
+<li>Copy the link of the Repository</li><br>
 <img width="50%" align="center"  src="clone.png"><br><br>
-<li><h3>Open Git bash where you want to clone the project and clone it </h3></li>
- <li> <h3>Clone it</h3></li>
+<li>Open Git bash where you want to clone the project and clone it </li>
+ <li>Clone it</li>
 <li>Run Command and Hit Enter <br>
  
  ```
@@ -58,7 +58,7 @@
  ```
  <img width="70%" align="center"  src="gitclone.png"><br><br>
  
- In this case it is ``` git clone  https://github.com/arpit456jain/Getting-Started-with-open-source.git ```
+ In this case it is <br> ``` git clone  https://github.com/arpit456jain/Getting-Started-with-open-source.git ```
   </li>
  <li> After you hit enter you will notice that some downloading will start. It's actually cloning of repo form your GitHub repository to your local system.</li><br>
  <img width="60%" align="center"  src="clonning.png">
@@ -111,7 +111,7 @@ git push origin new_branch_name
 </ul>
 
 ---
-## Some Common Error And Their Solutions
+# Some Common Error And Their Solutions
 
 ### 1. Updates were rejected or failed to push some refs.
 <img width="80%" align="center"  src="error1.png"><br>
@@ -129,7 +129,7 @@ Note : if your repo is a forked one and its some commit behind then first fetch 
 
 ---
 
-##  Common Git Commands you should know!!! 
+#  Common Git Commands you should know!!! 
 
 ### 1. Git checkout
 
