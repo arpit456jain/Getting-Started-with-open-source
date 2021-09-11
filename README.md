@@ -18,7 +18,7 @@
 <h3>Git Setup :- </h3>
 <ul>
 <li><h3><a href="https://git-scm.com/downloads">Download Git</a> as per your OS. </h3></li>
-<li><h3>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE">Video</a> as per your OS.  </h3></li>
+<li><h3>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> as per your OS.  </h3></li>
 <li><h3>Install Git</h3></li>
 <li><h3>Open the Git Bash ( Right Click )</h3></li>
 <li><h3>Run the Commands</h3></li>
@@ -38,7 +38,7 @@
 
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code 
 - <h3><a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS. </h3>
-- <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA">Video</a> as per your OS.  </h3>
+- <h3>Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS.  </h3>
 - <h3> Install it </h3>
 
 ### 4. Now you just have to setup the project from GitHub to your local system.
@@ -123,11 +123,105 @@ git push origin new_branch_name
 git pull origin master
 ```
 <p>
-Note : if your repo is a forked one and its some commit behind then first ftech n merge then pull changes
+Note : if your repo is a forked one and its some commit behind then first fetch n merge then pull changes
 
 </p>
 
 ---
+
+##  Common Git Commands you should know!!! 
+
+### 1. Git checkout
+
+<li>You can use the checkout command to switch the branch that you are currently working on. </li>
+ 
+ ```
+git checkout <branch name>
+ ```
+
+### 2. Git init
+
+<li>This is the command you need to use if you want to start a new empty repository or to reinitialize an existing one in the project root. It will create a .git directory with its subdirectories. </li>
+ 
+ ```
+git init <repository name>
+ ```
+
+### 3. Git diff
+
+<li>You can use this command to see the unstaged changes on the current branch. </li>
+ 
+ ```
+git diff
+ ```
+
+<li>If you want to see the staged changes. </li>
+ 
+ ```
+git diff --staged
+ ```
+
+<li>Or you can compare two branches: </li>
+ 
+ ```
+gif diff <branch1> <branch2>
+ ```
+
+ ### 4. Git add
+
+<li>This is the command you need to use to stage changed files. You can stage individual files. </li>
+ 
+ ```
+git add <file path>
+ ```
+
+<li>You can also stage all files. </li>
+ 
+ ```
+git add .
+ ```
+
+ ### 5. Git branch
+
+<li>Using git branch will list all the branches of the repository. </li>
+ 
+ ```
+git branch
+ ```
+
+<li>Or you can use it to create a new branch, without checking it out. </li>
+ 
+ ```
+git branch <new branch>
+ ```
+
+<li>To delete a branch. </li>
+ 
+ ```
+git branch -d <branch name>
+ ```
+
+ ### 6. Git log
+
+<li>If you want to see what you have committed till now. </li>
+ 
+ ```
+git log
+ ```
+
+<li>If you want to see last 5 commits among 100000 commits. </li>
+ 
+ ```
+git log -p -1
+ ```
+
+ ### 7. Git clear
+
+<li>To clean git bash. </li>
+ 
+ ```
+git clear
+ ```
 
 ## <ins> What if I have Merge Conflicts? </ins>
 
