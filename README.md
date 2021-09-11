@@ -63,7 +63,7 @@
  <li> After you hit enter you will notice that some downloading will start. It's actually cloning of repo form your GitHub repository to your local system.</li><br>
  <img width="60%" align="center"  src="clonning.png">
  <li> After this you will notice a folder is created with the name of repository </li><br>
- <img width="10%" align="center"  src="folder.png"><br><br>
+ <img width="15%" align="center"  src="folder.png"><br><br>
  <li>Then just close the Git bash and open this folder and open VS code here</li><br>
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
@@ -106,7 +106,7 @@ git push origin new_branch_name
 <img width="80%" align="center"  src="PR.png"><br><br>
 <li>Now add a title and description of your PR and click on create pull request.</li>
 <br>
-<li>Congrats 🎉 your Pull Request is created</li>
+<li>Congrats 🎉 your Pull Request is created</li><br>
 <img width="80%" align="center"  src="PRcreated.png"><br><br>
 </ul>
 
