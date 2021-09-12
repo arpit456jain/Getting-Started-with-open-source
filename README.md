@@ -271,7 +271,7 @@ git clear
  - ### **W** <br>
  - ### **X** <br>
  - ### **Y** <br>
-	-[Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
+   - [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
  - ### **Z** <br>
 
    <h1 align=center> Project Admin ❤️ </h1>
