@@ -300,4 +300,9 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 <b>Contributions of any kind are welcome!</b>
 
 ## Open Source Programs [click here](https://github.com/arpit456jain/Open-Source-Programs)
+
+## Some Open Source Projects you can contribute to.
+|Project Name|Tech Stack |
+|||
+
 ## show some ❤️&nbsp; by giving the star to this repo
