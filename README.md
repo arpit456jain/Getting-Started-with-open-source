@@ -127,6 +127,20 @@ Note : if your repo is a forked one and its some commit behind then first fetch 
 
 </p>
 
+### 1. Unable to detect identity.
+<img width="80%" align="center"  src="Error2.png"><br>
+<p> Its pretty easy to solve . </p>
+<br>
+<p><b>Solution:</b> You just have to write your username and email </p>
+
+```
+git config --global user.name "Your Name"
+```
+
+```
+git config --global user.email youremail@example.com
+```
+
 ---
 
 #  Common Git Commands you should know!!! 
@@ -215,7 +229,59 @@ git log
 git log -p -1
  ```
 
- ### 7. Git clear
+ ### 7. Git merge
+
+<li>Merge the changes made in a staging branch into the stable branch. </li>
+ 
+ ```
+git merge <branch_name>
+ ```
+
+ ### 8. Git rm
+
+ <p>Remove files or directories from the working index (staging area). With git rm, there are two options to keep in mind: force and cached. Running the command with force deletes the file. The cached command removes the file from the working index. When removing an entire directory, a recursive command is necessary.</p>
+
+<li>To remove a file from the working index (cached) </li>
+ 
+ ```
+git rm --cached <file name>
+ ```
+
+<li>To delete a file (force) </li>
+ 
+ ```
+git rm -f <file name>
+ ```
+
+<li>To remove an entire directory from the working index (cached) </li>
+ 
+ ```
+git rm -r --cached <directory name>
+ ```
+
+<li>To delete an entire directory (force) </li>
+ 
+ ```
+git rm -r -f <file name>
+ ```
+
+  ### 9. Git stash
+
+ <p>To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory. For instance, when working on a new feature that’s not complete, but an urgent bug needs attention. </p>
+
+<li>Store current work with untracked files </li>
+ 
+ ```
+git stash -u
+ ```
+
+<li>Bring stashed work back to the working directory </li>
+ 
+ ```
+git stash pop
+ ```
+ 
+ ### 10. Git clear
 
 <li>To clean git bash. </li>
  
