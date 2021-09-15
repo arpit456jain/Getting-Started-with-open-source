@@ -303,6 +303,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 
 ## Some Open Source Projects you can contribute to.
 |Project Name|Tech Stack |
-|||
+|--|--|
+|[PixelVibe](https://github.com/ankitapuri/pixelvibe)|HTML , CSS , Bootstrap , Java Script , Python , Django |
 
 ## show some ❤️&nbsp; by giving the star to this repo
