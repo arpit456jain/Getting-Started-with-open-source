@@ -340,7 +340,7 @@ git clear
    - [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
  - ### **Z** <br>
 
-   <h1 align=center> Project Admin ❤️ </h1>
+   <h1 align=center> Project Admins ❤️ </h1>
 <p align="center">
 <table>
   <tbody><tr>
