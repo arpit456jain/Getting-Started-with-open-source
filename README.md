@@ -39,8 +39,16 @@
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code 
 - <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
 - Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS. 
-- Install it.
-
+#### Other Text Editors
+- <a href="https://www.sublimetext.com/">Sublime Text</a>
+- <a href="https://atom.io/">Atom</a>
+- <a href="https://notepad-plus-plus.org/">Notepad++</a>
+- <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
+- <a href="https://macromates.com/">Text Mate</a>
+- <a href="https://www.vim.org/">Vim</a>
+- <a href="https://www.ultraedit.com/">Ultra Edit</a>
+- <a href="https://brackets.io/">Brackets</a>
+- <a href="https://www.codeblocks.org/">Code Block</a>
 ### 4. Now you just have to setup the project from GitHub to your local system.
 <h3>Setting Project on your Local System :- </h3><br>
 <ul>
@@ -64,7 +72,8 @@
  <img width="60%" align="center"  src="clonning.png">
  <li> After this you will notice a folder is created with the name of repository </li><br>
  <img width="15%" align="center"  src="folder.png"><br><br>
- <li>Then just close the Git bash and open this folder and open VS code here</li><br>
+ <li>Then just close the Git bash and open this folder in your preferred text editor...</li><br>
+ <li>Here is an example in VS Code. </li><br>
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
 
@@ -73,8 +82,9 @@
 
  <li>Fetch And Merge </li><br>
  <img width="50%" align="center"  src="fetch.png"><br>
+	<br>
  <li>Pull these changes in your local system</li>
- 
+ 	<br>
  ```
  git pull origin master
  ```
@@ -318,6 +328,7 @@ git clear
  - ### **F** <br>
  - ### **G** <br>
  - ### **H** <br>
+	- [Himansh](https://github.com/ruhend)
  - ### **I** <br>
  - ### **J** <br>
  - ### **K** <br>
