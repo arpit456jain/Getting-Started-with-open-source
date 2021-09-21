@@ -343,6 +343,7 @@ git clear
  - ### **R** <br>
  - ### **S** <br>
    - [Siddharth Parashar](https://github.com/sidparashar2001) 
+   - [Sejal Bhardwaj](https://github.com/sejalbhardwaj) 
  - ### **T** <br>
  - ### **U** <br>
  - ### **V** <br>
