@@ -162,6 +162,12 @@ git config --global user.email youremail@example.com
  ```
 git checkout <branch name>
  ```
+<li>You can use the checkout command with -b to create a new branch and switch to the same. </li>
+ 
+ ```
+git checkout -b <branch name>
+ ```
+
 
 ### 2. Git init
 
