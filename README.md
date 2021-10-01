@@ -162,7 +162,7 @@ git config --global user.email youremail@example.com
  ```
 git checkout <branch name>
  ```
-<li>You can use the checkout command with -b to create a new branch and switch to the same. </li>
+<li>You can use the checkout command with `-b` to create a new branch and switch to the same. </li>
  
  ```
 git checkout -b <branch name>
@@ -344,6 +344,7 @@ git clear
  - ### **M** <br>
    - [Manish Agrahari](https://github.com/manish831)
  - ### **N** <br>
+   - [Neha Ajith](https://github.com/neha-ajith) 
  - ### **O** <br>
  - ### **P** <br>
  - ### **Q** <br>
