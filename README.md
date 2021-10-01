@@ -127,7 +127,7 @@ Note : if your repo is a forked one and its some commit behind then first fetch 
 
 </p>
 
-### 1. Unable to detect identity.
+### 2. Unable to detect identity.
 <img width="80%" align="center"  src="Error2.png"><br>
 <p> Its pretty easy to solve . </p>
 <br>
