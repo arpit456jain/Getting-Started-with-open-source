@@ -1,4 +1,6 @@
 # Step-by-Step Guide for beginners for getting started with Open-Source 
+### This project is part of Hacktoberfest'21
+![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
 <div align="center">
 <h2> Here The Contribution Begins💻</h2>
