@@ -328,8 +328,8 @@ git clear
    - [Arpit Jain](https://github.com/arpit456jain)
    - [Ankita Puri](https://github.com/ankitapuri)
    - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
+   - [Ananya Redhu](https://github.com/ananzzz)
    - [Atul Kesharwani](https://github.com/Atu77l)
- 
  - ### **B** <br>
  - ### **C** <br>
  - ### **D** <br>
