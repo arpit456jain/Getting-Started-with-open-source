@@ -1,4 +1,6 @@
 # Step-by-Step Guide for beginners for getting started with Open-Source 
+### This project is part of Hacktoberfest'21
+![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
 <div align="center">
 <h2> Here The Contribution Begins💻</h2>
@@ -39,8 +41,16 @@
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code 
 - <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
 - Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS. 
-- Install it.
-
+#### Other Text Editors
+- <a href="https://www.sublimetext.com/">Sublime Text</a>
+- <a href="https://atom.io/">Atom</a>
+- <a href="https://notepad-plus-plus.org/">Notepad++</a>
+- <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
+- <a href="https://macromates.com/">Text Mate</a>
+- <a href="https://www.vim.org/">Vim</a>
+- <a href="https://www.ultraedit.com/">Ultra Edit</a>
+- <a href="https://brackets.io/">Brackets</a>
+- <a href="https://www.codeblocks.org/">Code Block</a>
 ### 4. Now you just have to setup the project from GitHub to your local system.
 <h3>Setting Project on your Local System :- </h3><br>
 <ul>
@@ -64,7 +74,8 @@
  <img width="60%" align="center"  src="clonning.png">
  <li> After this you will notice a folder is created with the name of repository </li><br>
  <img width="15%" align="center"  src="folder.png"><br><br>
- <li>Then just close the Git bash and open this folder and open VS code here</li><br>
+ <li>Then just close the Git bash and open this folder in your preferred text editor...</li><br>
+ <li>Here is an example in VS Code. </li><br>
  <img width="100%" align="center"  src="vscode.png"><br><br>
 </ul>
 
@@ -73,8 +84,9 @@
 
  <li>Fetch And Merge </li><br>
  <img width="50%" align="center"  src="fetch.png"><br>
+	<br>
  <li>Pull these changes in your local system</li>
- 
+ 	<br>
  ```
  git pull origin master
  ```
@@ -152,6 +164,12 @@ git config --global user.email youremail@example.com
  ```
 git checkout <branch name>
  ```
+<li>You can use the checkout command with `-b` to create a new branch and switch to the same. </li>
+ 
+ ```
+git checkout -b <branch name>
+ ```
+
 
 ### 2. Git init
 
@@ -310,37 +328,46 @@ git clear
    - [Arpit Jain](https://github.com/arpit456jain)
    - [Ankita Puri](https://github.com/ankitapuri)
    - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
- 
+   - [Ananya Redhu](https://github.com/ananzzz)
+   - [Atul Kesharwani](https://github.com/Atu77l)
  - ### **B** <br>
  - ### **C** <br>
  - ### **D** <br>
+   - [Dev Patel](https://github.com/devp73)
  - ### **E** <br>
  - ### **F** <br>
  - ### **G** <br>
  - ### **H** <br>
+	- [Himansh](https://github.com/ruhend)
  - ### **I** <br>
  - ### **J** <br>
  - ### **K** <br>
    - [Kumari Astha Rani](https://github.com/astha2412)
+   - [Km Alan](https://github.com/alankemboi)
  - ### **L** <br>
  - ### **M** <br>
+   - [Manish Agrahari](https://github.com/manish831)
  - ### **N** <br>
+   - [Neha Ajith](https://github.com/neha-ajith) 
  - ### **O** <br>
  - ### **P** <br>
  - ### **Q** <br>
  - ### **R** <br>
  - ### **S** <br>
    - [Siddharth Parashar](https://github.com/sidparashar2001) 
+   - [Sejal Bhardwaj](https://github.com/sejalbhardwaj) 
  - ### **T** <br>
  - ### **U** <br>
  - ### **V** <br>
+   - [Visinigiri Aditya](https://github.com/adityakumar48)
+   - [Vyom Gupta](https://github.com/vyomguptaa)
  - ### **W** <br>
  - ### **X** <br>
  - ### **Y** <br>
    - [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
  - ### **Z** <br>
 
-   <h1 align=center> Project Admin ❤️ </h1>
+   <h1 align=center> Project Admins ❤️ </h1>
 <p align="center">
 <table>
   <tbody><tr>
@@ -357,7 +384,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 	<tr>
 		 <td>
   <a href="https://github.com/arpit456jain/Getting-Started-with-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arpit456jain/getting-started-with-open-source" />
+  <img src="https://contrib.rocks/image?repo=arpit456jain/Getting-started-with-open-source" />
   </a>
 		</td>
 	</tr>
