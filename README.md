@@ -342,7 +342,7 @@ git clear
  - ### **I** <br>
  - ### **J** <br>
  - ### **K** <br>
-   - [Km Astha Rani](https://github.com/astha2412)
+   - [Kumari Astha Rani](https://github.com/astha2412)
    - [Km Alan](https://github.com/alankemboi)
  - ### **L** <br>
  - ### **M** <br>
