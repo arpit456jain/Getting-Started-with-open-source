@@ -27,7 +27,7 @@ def getInput():
     textArea.grid(column=1,row=6)
     answer = " Heyy {tiger}!!!. You are {age} years old!!! ".format(tiger=name, age=tiger.age())
     textArea.insert(tk.END,answer)
-button=tk.Button(window,text="Calculate Age",command=getInput,bg="blue")
+button=tk.Button(window,text="Calculate Age",command=getInput,bg="red")
 button.grid(column=1,row=5)
 class Person:
     def __init__(self,name,birthdate):
