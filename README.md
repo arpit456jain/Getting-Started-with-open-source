@@ -528,3 +528,4 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 |[PixelVibe](https://github.com/ankitapuri/pixelvibe)|HTML , CSS , Bootstrap , Java Script , Python , Django |
 
 ## show some ❤️&nbsp; by giving the star to this repo
+## Thankyou Linus Torvalds for inventing Git and Linux
