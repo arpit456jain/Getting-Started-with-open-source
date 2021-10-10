@@ -307,6 +307,134 @@ git stash pop
 git clear
  ```
 
+# Git Cheatsheet!!! 
+
+##  SETUP
+Configuring user information used across all local repositories
+
+ ### 1.  git config --global user.name “[firstname lastname]”
+
+ <li>set a name that is identifiable for credit when review version history </li>
+
+ ### 2. git config --global user.email “[valid-email]”
+
+ <li> set an email address that will be associated with each history marker
+ </li>
+
+ ### 3. git config --global color.ui auto
+
+ <li>set automatic command line coloring for Git for easy reviewing  </li>
+ <br>
+
+## SETUP & INIT
+Configuring user information, initializing and cloning repositories
+ ### 1. git init
+
+ <li>initialize an existing directory as a Git repository </li>
+
+ ### 2. git clone [url]
+
+ <li> retrieve an entire repository from a hosted location via URL </li>
+ <br>
+
+ ## STAGE & SNAPSHOT
+Working with snapshots and the Git staging area
+
+### 1. git status
+
+<li>show modified files in working directory, staged for your next commit </li>
+ 
+ ### 2. git add [file]
+
+
+<li>add a file as it looks now to your next commit (stage). This area contains a list of all the files you have recently changed. It tells Git that you want to include updates to a particular file in the next commit. </li>
+ 
+ ### 3. git reset [file]
+
+<li>Remove the specified file from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes. </li>
+ 
+ ### 4. git diff
+
+ <li>diff of what is changed but not staged  </li>
+
+ ### 5. git diff --staged
+
+ <li>diff of what is staged but not yet commited  </li>
+
+ ### 6. git commit -m “[descriptive message]”
+ <li> commit your staged content as a new commit snapshot </li>
+<br>
+
+## BRANCH & MERGE
+Isolating work in branches, changing context, and integrating changes
+
+ ### 1. git branch
+
+ <li>list your branches. a * will appear next to the currently active branch
+ </li>
+
+### 2. git branch [branch-name] 
+
+ <li>create a new branch at the current commit </li>
+
+ ### 3. git checkout
+
+ <li>switch to another branch and check it out into your working directory </li>
+
+### 4. git merge [branch] 
+
+ <li>merge the specified branch’s history into the current one </li>
+ <br>
+
+## INSPECT & COMPARE
+Examining logs, diffs and object information
+
+ ### 1. git log
+
+ <li>show the commit history for the currently active branch </li>
+
+### 2. git log branchB..branchA
+
+ <li>show the commits on branchA that are not on branchB </li>
+
+ ### 3. git log --follow [file] 
+
+ <li>show the commits that changed file, even across renames </li>
+
+ ### 4. git diff branchB...branchA 
+
+ <li>show the diff of what is in branchA that is not in branchB </li>
+
+ ### 5. git show [SHA] 
+
+ <li>show any object in Git in human-readable format </li>
+ <br>
+
+## SHARE & UPDATE
+Retrieving updates from another repository and updating local repos
+
+ ### 1. git remote add [alias] [url] 
+
+ <li>add a git URL as an alias </li>
+
+ ### 2. git fetch [alias] 
+
+ <li>fetch down all the branches from that Git remote </li>
+
+ ### 3. git merge [alias]/[branch] 
+
+ <li>merge a remote branch into your current branch to bring it up to date </li>
+
+### 4. git push [alias] [branch] 
+
+ <li>Transmit local branch commits to the remote repository branch </li>
+
+ ### 5. git pull 
+
+ <li>fetch and merge any commits from the tracking remote branch </li>
+ <br>
+<hr>
+
 ## <ins> What if I have Merge Conflicts? </ins>
 
 #### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
