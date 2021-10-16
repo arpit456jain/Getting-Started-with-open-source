@@ -2,6 +2,20 @@
 ### This project is part of Hacktoberfest'21
 ![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
+## What is HacktoberFest?
+**`Hacktoberfest`** is an `open-source competition` open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+
+1. **`Hacktoberfest`** is a celebration open to everyone in our global community.
+2. `Pull requests` can be made in any `GitHub-hosted` repositories/projects.
+3. You can sign up anytime between `October 1` and `October 31`.
+
+## Rules:
+To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and make four valid pull requests (PRs) between `October 1-31` (in any time zone). PRs can **NOT** be made to any public repo on GitHub, maintainers have to opt in with the topic **`Hacktoberfest`** on the repo. If a `maintainer` reports your pull request as `spam` or behavior not in line with the project’s code of conduct, you will be `ineligible` to participate. This year, the first **`70,000`** participants who successfully complete the challenge will be eligible to receive a `prize`.
+
+## Projects in which you can contribute:
+- Any `github` repository with the **`Hacktoberfest`** topic
+- For the sake of convenience, you can contribute to this very project :)
+
 <div align="center">
 <h2> Here The Contribution Begins💻</h2>
 
