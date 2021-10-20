@@ -1,8 +1,11 @@
-# Step-by-Step Guide for beginners for getting started with Open-Source 
+# Step-by-Step Guide for beginners for getting started with Open-Source
+
 ### This project is part of Hacktoberfest'21
+
 ![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
 ## What is HacktoberFest?
+
 **`Hacktoberfest`** is an `open-source competition` open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 1. **`Hacktoberfest`** is a celebration open to everyone in our global community.
@@ -10,11 +13,13 @@
 3. You can sign up anytime between `October 1` and `October 31`.
 
 ## Rules:
+
 To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and make four valid pull requests (PRs) between `October 1-31` (in any time zone). PRs can **NOT** be made to any public repo on GitHub, maintainers have to opt in with the topic **`Hacktoberfest`** on the repo. If a `maintainer` reports your pull request as `spam` or behavior not in line with the project’s code of conduct, you will be `ineligible` to participate. This year, the first **`70,000`** participants who successfully complete the challenge will be eligible to receive a `prize`.
 
 ## Projects in which you can contribute:
-- Any `github` repository with the **`Hacktoberfest`** topic
-- For the sake of convenience, you can contribute to this very project :)
+
+-   Any `github` repository with the **`Hacktoberfest`** topic
+-   For the sake of convenience, you can contribute to this very project :)
 
 <div align="center">
 <h2> Here The Contribution Begins💻</h2>
@@ -31,6 +36,7 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 <hr>
 
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
+
 <h3>Git Setup :- </h3>
 <ul>
 <li><a href="https://git-scm.com/downloads">Download Git</a> as per your OS.</li>
@@ -52,20 +58,25 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 
 ### 2. You should have an account on GitHub if you you dont't have an account then simply make it.
 
-### 3. You will need a text editor accoring to your comfort , I prefer Vs code 
-- <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
-- Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS. 
+### 3. You will need a text editor accoring to your comfort , I prefer Vs code
+
+-   <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
+-   Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS.
+
 #### Other Text Editors
-- <a href="https://www.sublimetext.com/">Sublime Text</a>
-- <a href="https://atom.io/">Atom</a>
-- <a href="https://notepad-plus-plus.org/">Notepad++</a>
-- <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
-- <a href="https://macromates.com/">Text Mate</a>
-- <a href="https://www.vim.org/">Vim</a>
-- <a href="https://www.ultraedit.com/">Ultra Edit</a>
-- <a href="https://brackets.io/">Brackets</a>
-- <a href="https://www.codeblocks.org/">Code Block</a>
+
+-   <a href="https://www.sublimetext.com/">Sublime Text</a>
+-   <a href="https://atom.io/">Atom</a>
+-   <a href="https://notepad-plus-plus.org/">Notepad++</a>
+-   <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
+-   <a href="https://macromates.com/">Text Mate</a>
+-   <a href="https://www.vim.org/">Vim</a>
+-   <a href="https://www.ultraedit.com/">Ultra Edit</a>
+-   <a href="https://brackets.io/">Brackets</a>
+-   <a href="https://www.codeblocks.org/">Code Block</a>
+
 ### 4. Now you just have to setup the project from GitHub to your local system.
+
 <h3>Setting Project on your Local System :- </h3><br>
 <ul>
 <li>Fork this Repository or Project</li>
@@ -94,6 +105,7 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 </ul>
 
 ### 5. Now Make necessary changes and commit them , lets say you have to add your name in readme , you already set up the project in local system . Now before starting your work always rembember to pull latest change from the main Repo.
+
 <ul>
 
  <li>Fetch And Merge </li><br>
@@ -137,10 +149,13 @@ git push origin new_branch_name
 </ul>
 
 ---
+
 # Some Common Error And Their Solutions
 
 ### 1. Updates were rejected or failed to push some refs.
+
 <img width="80%" align="center"  src="error1.png"><br>
+
 <p> This is most common error you will find and its pretty easy to solve . </p>
 <br>
 <p><b>Solution:</b> You just have to pull latest changes to your local system first and then you can push them </p>
@@ -148,13 +163,16 @@ git push origin new_branch_name
 ```
 git pull origin master
 ```
+
 <p>
 Note : if your repo is a forked one and its some commit behind then first fetch n merge then pull changes
 
 </p>
 
 ### 2. Unable to detect identity.
+
 <img width="80%" align="center"  src="Error2.png"><br>
+
 <p> Its pretty easy to solve . </p>
 <br>
 <p><b>Solution:</b> You just have to write your username and email </p>
@@ -167,9 +185,23 @@ git config --global user.name "Your Name"
 git config --global user.email youremail@example.com
 ```
 
+### 3. Remote origin already exists.
+
+<img width="80%" align="center" src="Error3.png"><br>
+
+<p>It is easy to solve<p>
+<br>
+<p><b>Solution:</b> You just have to update the URL of the remote repository with the name "origin" to the URL of the remote repository you want to add</p>
+
+```
+git remote set-url origin <repository url>
+```
+
+<p>
+
 ---
 
-#  Common Git Commands you should know!!! 
+# Common Git Commands you should know!!!
 
 ### 1. Git checkout
 
@@ -183,7 +215,6 @@ git checkout <branch name>
  ```
 git checkout -b <branch name>
  ```
-
 
 ### 2. Git init
 
@@ -213,7 +244,7 @@ git diff --staged
 gif diff <branch1> <branch2>
  ```
 
- ### 4. Git add
+### 4. Git add
 
 <li>This is the command you need to use to stage changed files. You can stage individual files. </li>
  
@@ -227,7 +258,7 @@ git add <file path>
 git add .
  ```
 
- ### 5. Git branch
+### 5. Git branch
 
 <li>Using git branch will list all the branches of the repository. </li>
  
@@ -247,7 +278,7 @@ git branch <new branch>
 git branch -d <branch name>
  ```
 
- ### 6. Git log
+### 6. Git log
 
 <li>If you want to see what you have committed till now. </li>
  
@@ -261,7 +292,7 @@ git log
 git log -p -1
  ```
 
- ### 7. Git merge
+### 7. Git merge
 
 <li>Merge the changes made in a staging branch into the stable branch. </li>
  
@@ -269,7 +300,7 @@ git log -p -1
 git merge <branch_name>
  ```
 
- ### 8. Git rm
+### 8. Git rm
 
  <p>Remove files or directories from the working index (staging area). With git rm, there are two options to keep in mind: force and cached. Running the command with force deletes the file. The cached command removes the file from the working index. When removing an entire directory, a recursive command is necessary.</p>
 
@@ -297,7 +328,7 @@ git rm -r --cached <directory name>
 git rm -r -f <file name>
  ```
 
-  ### 9. Git stash
+### 9. Git stash
 
  <p>To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory. For instance, when working on a new feature that’s not complete, but an urgent bug needs attention. </p>
 
@@ -321,37 +352,41 @@ git stash pop
 git clear
  ```
 
-# Git Cheatsheet!!! 
+# Git Cheatsheet!!!
 
-##  SETUP
+## SETUP
+
 Configuring user information used across all local repositories
 
- ### 1.  git config --global user.name “[firstname lastname]”
+### 1. git config --global user.name “[firstname lastname]”
 
  <li>set a name that is identifiable for credit when review version history </li>
 
- ### 2. git config --global user.email “[valid-email]”
+### 2. git config --global user.email “[valid-email]”
 
  <li> set an email address that will be associated with each history marker
  </li>
 
- ### 3. git config --global color.ui auto
+### 3. git config --global color.ui auto
 
  <li>set automatic command line coloring for Git for easy reviewing  </li>
  <br>
 
 ## SETUP & INIT
+
 Configuring user information, initializing and cloning repositories
- ### 1. git init
+
+### 1. git init
 
  <li>initialize an existing directory as a Git repository </li>
 
- ### 2. git clone [url]
+### 2. git clone [url]
 
  <li> retrieve an entire repository from a hosted location via URL </li>
  <br>
 
- ## STAGE & SNAPSHOT
+## STAGE & SNAPSHOT
+
 Working with snapshots and the Git staging area
 
 ### 1. git status
@@ -359,7 +394,6 @@ Working with snapshots and the Git staging area
 <li>show modified files in working directory, staged for your next commit </li>
  
  ### 2. git add [file]
-
 
 <li>add a file as it looks now to your next commit (stage). This area contains a list of all the files you have recently changed. It tells Git that you want to include updates to a particular file in the next commit. </li>
  
@@ -371,39 +405,42 @@ Working with snapshots and the Git staging area
 
  <li>diff of what is changed but not staged  </li>
 
- ### 5. git diff --staged
+### 5. git diff --staged
 
  <li>diff of what is staged but not yet commited  </li>
 
- ### 6. git commit -m “[descriptive message]”
+### 6. git commit -m “[descriptive message]”
+
  <li> commit your staged content as a new commit snapshot </li>
 <br>
 
 ## BRANCH & MERGE
+
 Isolating work in branches, changing context, and integrating changes
 
- ### 1. git branch
+### 1. git branch
 
  <li>list your branches. a * will appear next to the currently active branch
  </li>
 
-### 2. git branch [branch-name] 
+### 2. git branch [branch-name]
 
  <li>create a new branch at the current commit </li>
 
- ### 3. git checkout
+### 3. git checkout
 
  <li>switch to another branch and check it out into your working directory </li>
 
-### 4. git merge [branch] 
+### 4. git merge [branch]
 
  <li>merge the specified branch’s history into the current one </li>
  <br>
 
 ## INSPECT & COMPARE
+
 Examining logs, diffs and object information
 
- ### 1. git log
+### 1. git log
 
  <li>show the commit history for the currently active branch </li>
 
@@ -411,39 +448,40 @@ Examining logs, diffs and object information
 
  <li>show the commits on branchA that are not on branchB </li>
 
- ### 3. git log --follow [file] 
+### 3. git log --follow [file]
 
  <li>show the commits that changed file, even across renames </li>
 
- ### 4. git diff branchB...branchA 
+### 4. git diff branchB...branchA
 
  <li>show the diff of what is in branchA that is not in branchB </li>
 
- ### 5. git show [SHA] 
+### 5. git show [SHA]
 
  <li>show any object in Git in human-readable format </li>
  <br>
 
 ## SHARE & UPDATE
+
 Retrieving updates from another repository and updating local repos
 
- ### 1. git remote add [alias] [url] 
+### 1. git remote add [alias] [url]
 
  <li>add a git URL as an alias </li>
 
- ### 2. git fetch [alias] 
+### 2. git fetch [alias]
 
  <li>fetch down all the branches from that Git remote </li>
 
- ### 3. git merge [alias]/[branch] 
+### 3. git merge [alias]/[branch]
 
  <li>merge a remote branch into your current branch to bring it up to date </li>
 
-### 4. git push [alias] [branch] 
+### 4. git push [alias] [branch]
 
  <li>Transmit local branch commits to the remote repository branch </li>
 
- ### 5. git pull 
+### 5. git pull
 
  <li>fetch and merge any commits from the tracking remote branch </li>
  <br>
@@ -453,8 +491,8 @@ Retrieving updates from another repository and updating local repos
 
 #### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
-- #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
-- #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+-   #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+-   #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
 
 ---
 
@@ -462,53 +500,53 @@ Retrieving updates from another repository and updating local repos
 
 ## <ins>CodeSmashers Community<ins>
 
-
 <!-- Please don't change the line above -->
 
- - ### **A** <br>
- 
-   - [Arpit Jain](https://github.com/arpit456jain)
-   - [Ankita Puri](https://github.com/ankitapuri)
-   - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
-   - [Ananya Redhu](https://github.com/ananzzz)
-   - [Atul Kesharwani](https://github.com/Atu77l)
- - ### **B** <br>
- - ### **C** <br>
- - ### **D** <br>
-   - [Dev Patel](https://github.com/devp73)
- - ### **E** <br>
- - ### **F** <br>
- - ### **G** <br>
- - ### **H** <br>
-	- [Himansh](https://github.com/ruhend)
- - ### **I** <br>
- - ### **J** <br>
- - ### **K** <br>
-   - [Kumari Astha Rani](https://github.com/astha2412)
-   - [Km Alan](https://github.com/alankemboi)
- - ### **L** <br>
- - ### **M** <br>
-   - [Manish Agrahari](https://github.com/manish831)
- - ### **N** <br>
-   - [Neha Ajith](https://github.com/neha-ajith) 
- - ### **O** <br>
- - ### **P** <br>
- - ### **Q** <br>
- - ### **R** <br>
- - ### **S** <br>
-   - [Siddharth Parashar](https://github.com/sidparashar2001) 
-   - [Sejal Bhardwaj](https://github.com/sejalbhardwaj) 
-   - [Suyash Gupta](https://github.com/sgalpha01)
- - ### **T** <br>
- - ### **U** <br>
- - ### **V** <br>
-   - [Visinigiri Aditya](https://github.com/adityakumar48)
-   - [Vyom Gupta](https://github.com/vyomguptaa)
- - ### **W** <br>
- - ### **X** <br>
- - ### **Y** <br>
-   - [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
- - ### **Z** <br>
+-   ### **A** <br>
+
+    -   [Arpit Jain](https://github.com/arpit456jain)
+    -   [Ankita Puri](https://github.com/ankitapuri)
+    -   [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
+    -   [Ananya Redhu](https://github.com/ananzzz)
+    -   [Atul Kesharwani](https://github.com/Atu77l)
+
+-   ### **B** <br>
+-   ### **C** <br>
+-   ### **D** <br>
+    -   [Dev Patel](https://github.com/devp73)
+-   ### **E** <br>
+-   ### **F** <br>
+-   ### **G** <br>
+-   ### **H** <br>
+    -   [Himansh](https://github.com/ruhend)
+-   ### **I** <br>
+-   ### **J** <br>
+-   ### **K** <br>
+    -   [Kumari Astha Rani](https://github.com/astha2412)
+    -   [Km Alan](https://github.com/alankemboi)
+-   ### **L** <br>
+-   ### **M** <br>
+    -   [Manish Agrahari](https://github.com/manish831)
+-   ### **N** <br>
+    -   [Neha Ajith](https://github.com/neha-ajith)
+-   ### **O** <br>
+-   ### **P** <br>
+-   ### **Q** <br>
+-   ### **R** <br>
+-   ### **S** <br>
+    -   [Siddharth Parashar](https://github.com/sidparashar2001)
+    -   [Sejal Bhardwaj](https://github.com/sejalbhardwaj)
+    -   [Suyash Gupta](https://github.com/sgalpha01)
+-   ### **T** <br>
+-   ### **U** <br>
+-   ### **V** <br>
+    -   [Visinigiri Aditya](https://github.com/adityakumar48)
+    -   [Vyom Gupta](https://github.com/vyomguptaa)
+-   ### **W** <br>
+-   ### **X** <br>
+-   ### **Y** <br>
+    -   [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
+-   ### **Z** <br>
 
    <h1 align=center> Project Admins ❤️ </h1>
 <p align="center">
@@ -516,12 +554,11 @@ Retrieving updates from another repository and updating local repos
   <tbody><tr>
      <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
      <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
- 
 
 </tbody></table>
 <h2 align=center> ✨ Contributors </h2>
 
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀  
+Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 
 <table>
 	<tr>
@@ -538,8 +575,9 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀
 ## Open Source Programs [click here](https://github.com/arpit456jain/Open-Source-Programs)
 
 ## Some Open Source Projects you can contribute to.
-|Project Name|Tech Stack |
-|--|--|
-|[PixelVibe](https://github.com/ankitapuri/pixelvibe)|HTML , CSS , Bootstrap , Java Script , Python , Django |
+
+| Project Name                                         | Tech Stack                                             |
+| ---------------------------------------------------- | ------------------------------------------------------ |
+| [PixelVibe](https://github.com/ankitapuri/pixelvibe) | HTML , CSS , Bootstrap , Java Script , Python , Django |
 
 ## show some ❤️&nbsp; by giving the star to this repo
