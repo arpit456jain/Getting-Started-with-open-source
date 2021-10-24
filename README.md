@@ -197,6 +197,18 @@ git config --global user.email youremail@example.com
 git remote set-url origin <repository url>
 ```
 
+### 3. Refusing to merge unrelated histories.
+
+<img width="80%" align="center" src="Error4.png"><br>
+
+<p>This error appears when some of your ambiguous actions confuse Git on how to function further.<p>
+<br>
+<p><b>Solution:</b> The solution to this fatal error is to use –allow-unrelated-histories flag with the git pull command or git merge command.</p>
+
+```
+git pull origin master –allow-unrelated-histories
+```
+
 <p>
 
 ---
