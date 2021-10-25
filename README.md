@@ -605,5 +605,10 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 | Project Name                                         | Tech Stack                                             |
 | ---------------------------------------------------- | ------------------------------------------------------ |
 | [PixelVibe](https://github.com/ankitapuri/pixelvibe) | HTML , CSS , Bootstrap , Java Script , Python , Django |
+| [Cool Front-End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates) | HTML , CSS , Bootstrap |
+| [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects) | HTML , CSS , Bootstrap |
+| [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects) | HTML , CSS , Bootstrap, JS | 
+| [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources) |Documentation |
+| [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion | 
 
 ## show some ❤️&nbsp; by giving the star to this repo
