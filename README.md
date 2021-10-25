@@ -566,6 +566,8 @@ Retrieving updates from another repository and updating local repos
 -   ### **V** <br>
     -   [Visinigiri Aditya](https://github.com/adityakumar48)
     -   [Vyom Gupta](https://github.com/vyomguptaa)
+    -   [Vamshi Muluguri](https://github.com/vamshi726)
+	
 -   ### **W** <br>
 -   ### **X** <br>
 -   ### **Y** <br>
