@@ -226,7 +226,13 @@ git pull origin master –allow-unrelated-histories
 ```
 git config http.sslVerify "false"
 ```
-
+<br><br>
+### 4. It is always best to make a new branch.
+<br><br>
+NEVER commit on the main branch.<br><br>
+The importance of adding a new branch is that we can work on the code until our changes are finalized. Suppose you are working on a project that needs x changes. It will be easier for the maintainer to review changes one at a time instead of all the changes in a single PR. The maintainer can easily suggest changes in your PR on a particular issue.<br><br>
+After finalizing and completing the code, the branch can be merged with the main branch. <br>
+1 branch can only have one PR. <br><br>
 <p>
 
 ---
@@ -557,6 +563,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **L** <br>
 -   ### **M** <br>
     -   [Manish Agrahari](https://github.com/manish831)
+    -   [Mitali Garg](https://github.com/Mitali-13)
 -   ### **N** <br>
     -   [Neha Ajith](https://github.com/neha-ajith)
         [Naveen kushwaha](https://github.com/naveen3011))
