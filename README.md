@@ -561,6 +561,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **S** <br>
     -   [Siddharth Parashar](https://github.com/sidparashar2001)
     -   [Sejal Bhardwaj](https://github.com/sejalbhardwaj)
+    -   [Sophiya Singh](https://github.com/sophiya02)
     -   [Suyash Gupta](https://github.com/sgalpha01)
 -   ### **T** <br>
 -   ### **U** <br>
