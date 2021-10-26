@@ -116,7 +116,13 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
  ```
  git pull origin master
  ```
- 
+	<br><br>
+ The same command can also be divided into the following - <br>
+	1. Fetching all commits from upstream <br>
+	git fetch --all --prune<br>
+	2. Reset the main branch of origin to upstream<br>
+	git reset --hard upstream/main<br><br>
+	
  <img width="50%" align="center"  src="pullorigin.png"><br><br>
  
  <li> make a new branch and then make the changes , then commit them. make sure to commit to the new branch <br>
