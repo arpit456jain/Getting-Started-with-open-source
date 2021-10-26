@@ -533,7 +533,7 @@ Retrieving updates from another repository and updating local repos
     -   [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
     -   [Ananya Redhu](https://github.com/ananzzz)
     -   [Atul Kesharwani](https://github.com/Atu77l)
-
+    -   [Abhiyodaya Pandey](https://github.com/Abhiyodaya2002)
 -   ### **B** <br>
 -   ### **C** <br>
 -   ### **D** <br>
