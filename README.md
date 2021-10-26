@@ -553,6 +553,7 @@ Retrieving updates from another repository and updating local repos
     -   [Manish Agrahari](https://github.com/manish831)
 -   ### **N** <br>
     -   [Neha Ajith](https://github.com/neha-ajith)
+        [Naveen kushwaha](https://github.com/naveen3011))
 -   ### **O** <br>
 -   ### **P** <br>
 -   ### **Q** <br>
