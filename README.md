@@ -563,6 +563,7 @@ Retrieving updates from another repository and updating local repos
     -   [Sejal Bhardwaj](https://github.com/sejalbhardwaj)
     -   [Sophiya Singh](https://github.com/sophiya02)
     -   [Suyash Gupta](https://github.com/sgalpha01)
+    -   [Sanskriti Singh](https://github.com/ssanskriti-25)
 -   ### **T** <br>
 -   ### **U** <br>
 -   ### **V** <br>
