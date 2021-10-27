@@ -4,6 +4,10 @@
 
 ![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
+### What is Git and Github?<br>
+Git helps is maintaining the history of the project. It maintains a record of what changes were made to a project , when and by whom.
+<br>Github is an online platform that hosts git repository.(Repository is a folder which saves all changes).<br><br>
+
 ## What is HacktoberFest?
 
 **`Hacktoberfest`** is an `open-source competition` open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
