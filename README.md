@@ -529,6 +529,9 @@ Retrieving updates from another repository and updating local repos
 
 -   #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 -   #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+	
+	<br><br><b>Video Link:</b>https://youtu.be/apGV9Kg7ics
+	<br>This video will help you to begin with Git and Github and start hosting projects on github or work on existing projects.<br>
 
 ---
 
