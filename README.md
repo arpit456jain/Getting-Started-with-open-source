@@ -44,7 +44,10 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 <h3>Git Setup :- </h3>
 <ul>
 <li><a href="https://git-scm.com/downloads">Download Git</a> as per your OS.</li>
-<li>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> as per your OS.</li>
+<li>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> for Windows User</li>
+<li>Git installation<a href="https://www.youtube.com/watch?v=ZM3I16Z-lxI"> Video</a> for Mac User</li>
+<li>Git installation<a href="https://www.youtube.com/watch?v=PLQQ3tJwBJg"> Video</a> for Linux User</li>
+
 <li>Install Git</li>
 <li>Open the Git Bash ( Right Click )</li>
 <li>Run the Commands</li>
