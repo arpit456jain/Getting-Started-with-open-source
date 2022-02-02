@@ -48,3 +48,28 @@ fetch("style_links.json")
       document.getElementById("styles").appendChild(StyleBoxDiv);
     }
   });
+
+
+  fetch("ces_team.json")
+  .then((response) => response.json())
+  .then((data) => {
+    let links = data;
+
+    for (let i = 0; i < links.length; i++) {
+      console.log(links.length);
+      let StyleBoxDiv = document.createElement("div");
+      StyleBoxDiv.innerHTML = `<div class="stylebox">
+            <div class="image">
+                 <img src="https://avatars.githubusercontent.com/${links[i].Github_username}" alt="">
+             </div>
+            <p>${links[i].name}</p>
+            
+            <div class="btn-group">
+            <a target="_blank" href="https://github.com/${links[i].Github_username}">View Profile</a>
+
+            </div>
+
+            </div>`;
+      document.getElementById("ces").appendChild(StyleBoxDiv);
+    }
+  });
