@@ -583,6 +583,7 @@ Retrieving updates from another repository and updating local repos
     -   [nitish saini](https://github.com/nitishsaini706)
 -   ### **O** <br>
 -   ### **P** <br>
+    -	[Prajwal Vijaykumar Mali](https://github.com/prajwalmali)
 -   ### **Q** <br>
 -   ### **R** <br>
 -   ### **S** <br>
