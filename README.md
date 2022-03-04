@@ -5,6 +5,7 @@
 ![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
 ### What is Git and Github?<br>
+
 Git helps is maintaining the history of the project. It maintains a record of what changes were made to a project , when and by whom.
 <br>Github is an online platform that hosts git repository.(Repository is a folder which saves all changes).<br><br>
 
@@ -22,8 +23,8 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 
 ## Projects in which you can contribute:
 
--   Any `github` repository with the **`Hacktoberfest`** topic
--   For the sake of convenience, you can contribute to this very project :)
+- Any `github` repository with the **`Hacktoberfest`** topic
+- For the sake of convenience, you can contribute to this very project :)
 
 <div align="center">
 <h2> Here The Contribution Begins💻</h2>
@@ -67,20 +68,20 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code
 
--   <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
--   Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS.
+- <a href="https://code.visualstudio.com/download">Download Vs Code</a> as per your OS.
+- Vs Code installation<a href="https://www.youtube.com/watch?v=MlIzFUI1QGA"> Video</a> as per your OS.
 
 #### Other Text Editors
 
--   <a href="https://www.sublimetext.com/">Sublime Text</a>
--   <a href="https://atom.io/">Atom</a>
--   <a href="https://notepad-plus-plus.org/">Notepad++</a>
--   <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
--   <a href="https://macromates.com/">Text Mate</a>
--   <a href="https://www.vim.org/">Vim</a>
--   <a href="https://www.ultraedit.com/">Ultra Edit</a>
--   <a href="https://brackets.io/">Brackets</a>
--   <a href="https://www.codeblocks.org/">Code Block</a>
+- <a href="https://www.sublimetext.com/">Sublime Text</a>
+- <a href="https://atom.io/">Atom</a>
+- <a href="https://notepad-plus-plus.org/">Notepad++</a>
+- <a href="https://www.coffeecup.com/html-editor/">CoffeeCup HTML Editor</a>
+- <a href="https://macromates.com/">Text Mate</a>
+- <a href="https://www.vim.org/">Vim</a>
+- <a href="https://www.ultraedit.com/">Ultra Edit</a>
+- <a href="https://brackets.io/">Brackets</a>
+- <a href="https://www.codeblocks.org/">Code Block</a>
 
 ### 4. Now you just have to setup the project from GitHub to your local system.
 
@@ -233,13 +234,17 @@ git pull origin master –allow-unrelated-histories
 ```
 git config http.sslVerify "false"
 ```
+
 <br><br>
+
 ### 4. It is always best to make a new branch.
+
 <br><br>
 NEVER commit on the main branch.<br><br>
 The importance of adding a new branch is that we can work on the code until our changes are finalized. Suppose you are working on a project that needs x changes. It will be easier for the maintainer to review changes one at a time instead of all the changes in a single PR. The maintainer can easily suggest changes in your PR on a particular issue.<br><br>
 After finalizing and completing the code, the branch can be merged with the main branch. <br>
 1 branch can only have one PR. <br><br>
+
 <p>
 
 ---
@@ -534,11 +539,11 @@ Retrieving updates from another repository and updating local repos
 
 #### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
--   #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
--   #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
-	
-	<br><br><b><h2>Video Link:</h2></b>https://youtu.be/apGV9Kg7ics
-	<br>This video will help you to begin with Git and Github and start hosting projects on github or work on existing projects.<br>
+- #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+
+  <br><br><b><h2>Video Link:</h2></b>https://youtu.be/apGV9Kg7ics
+  <br>This video will help you to begin with Git and Github and start hosting projects on github or work on existing projects.<br>
 
 ---
 
@@ -548,62 +553,65 @@ Retrieving updates from another repository and updating local repos
 
 <!-- Please don't change the line above -->
 
--   ### **A** <br>
+- ### **A** <br>
 
-    -   [Arpit Jain](https://github.com/arpit456jain)
-    -   [Amin Gholizad](https://github.com/AminGholizad)
-    -   [Ankita Puri](https://github.com/ankitapuri)
-    -   [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
-    -   [Ananya Redhu](https://github.com/ananzzz)
-    -   [Atul Kesharwani](https://github.com/Atu77l)
-    -   [Abhiyodaya Pandey](https://github.com/Abhiyodaya2002)
--   ### **B** <br>
--   ### **C** <br>
--   ### **D** <br>
-    -   [Dev Patel](https://github.com/devp73)
--   ### **E** <br>
--   ### **F** <br>
--   ### **G** <br>
--   ### **H** <br>
-    -   [Himansh](https://github.com/ruhend)
--   ### **I** <br>
--   ### **J** <br>
--   ### **K** <br>
-    -   [Kumari Astha Rani](https://github.com/astha2412)
-    -   [Km Alan](https://github.com/alankemboi)
--   ### **L** <br>
--   ### **M** <br>
-    -   [Manish Agrahari](https://github.com/manish831)
-     -  [Malay Dewangan](https://github.com/Malaydewangan09)
-    
-    -   [Mitali Garg](https://github.com/Mitali-13)
--   ### **N** <br>
-    -   [Neha Ajith](https://github.com/neha-ajith)
-    -    [Naveen kushwaha](https://github.com/naveen3011)
-    -   [nitish saini](https://github.com/nitishsaini706)
--   ### **O** <br>
--   ### **P** <br>
--   ### **Q** <br>
--   ### **R** <br>
--   ### **S** <br>
-    -   [Siddharth Parashar](https://github.com/sidparashar2001)
-    -   [Sejal Bhardwaj](https://github.com/sejalbhardwaj)
-    -   [Sophiya Singh](https://github.com/sophiya02)
-    -   [Suyash Gupta](https://github.com/sgalpha01)
-    -   [Sanskriti Singh](https://github.com/ssanskriti-25)
-    -	[Susmita Dey](https://github.com/Susmita-Dey)
--   ### **T** <br>
--   ### **U** <br>
--   ### **V** <br>
-    -   [Visinigiri Aditya](https://github.com/adityakumar48)
-    -   [Vyom Gupta](https://github.com/vyomguptaa)
-    -   [Vamshi Muluguri](https://github.com/vamshi726)
-	
--   ### **W** <br>
--   ### **X** <br>
--   ### **Y** <br>
-    -   [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
--   ### **Z** <br>
+  - [Arpit Jain](https://github.com/arpit456jain)
+  - [Amin Gholizad](https://github.com/AminGholizad)
+  - [Ankita Puri](https://github.com/ankitapuri)
+  - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
+  - [Ananya Redhu](https://github.com/ananzzz)
+  - [Atul Kesharwani](https://github.com/Atu77l)
+  - [Abhiyodaya Pandey](https://github.com/Abhiyodaya2002)
+  - [Ishita Garg](https://github.com/IshitaGarg-01)
+
+- ### **B** <br>
+- ### **C** <br>
+- ### **D** <br>
+  - [Dev Patel](https://github.com/devp73)
+- ### **E** <br>
+- ### **F** <br>
+- ### **G** <br>
+- ### **H** <br>
+  - [Himansh](https://github.com/ruhend)
+- ### **I** <br>
+- ### **J** <br>
+- ### **K** <br>
+  - [Kumari Astha Rani](https://github.com/astha2412)
+  - [Km Alan](https://github.com/alankemboi)
+- ### **L** <br>
+- ### **M** <br>
+
+  - [Manish Agrahari](https://github.com/manish831)
+  - [Malay Dewangan](https://github.com/Malaydewangan09)
+
+  - [Mitali Garg](https://github.com/Mitali-13)
+
+- ### **N** <br>
+  - [Neha Ajith](https://github.com/neha-ajith)
+  - [Naveen kushwaha](https://github.com/naveen3011)
+  - [nitish saini](https://github.com/nitishsaini706)
+- ### **O** <br>
+- ### **P** <br>
+- ### **Q** <br>
+- ### **R** <br>
+- ### **S** <br>
+  - [Siddharth Parashar](https://github.com/sidparashar2001)
+  - [Sejal Bhardwaj](https://github.com/sejalbhardwaj)
+  - [Sophiya Singh](https://github.com/sophiya02)
+  - [Suyash Gupta](https://github.com/sgalpha01)
+  - [Sanskriti Singh](https://github.com/ssanskriti-25)
+  - [Susmita Dey](https://github.com/Susmita-Dey)
+- ### **T** <br>
+- ### **U** <br>
+- ### **V** <br>
+  - [Visinigiri Aditya](https://github.com/adityakumar48)
+  - [Vyom Gupta](https://github.com/vyomguptaa)
+  - [Vamshi Muluguri](https://github.com/vamshi726)
+- ### **W** <br>
+- ### **X** <br>
+- ### **Y** <br>
+  - [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
+- ### **Z** <br>
 
    <h1 align=center> Project Admins ❤️ </h1>
 <p align="center">
@@ -633,13 +641,13 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 
 ## Some Open Source Projects you can contribute to.
 
-| Project Name                                         | Tech Stack                                             |
-| ---------------------------------------------------- | ------------------------------------------------------ |
-| [PixelVibe](https://github.com/ankitapuri/pixelvibe) | HTML , CSS , Bootstrap , Java Script , Python , Django |
-| [Cool Front-End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates) | HTML , CSS , Bootstrap |
-| [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects) | HTML , CSS , Bootstrap |
-| [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects) | HTML , CSS , Bootstrap, JS | 
-| [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources) |Documentation |
-| [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion | 
+| Project Name                                                                                             | Tech Stack                                             |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [PixelVibe](https://github.com/ankitapuri/pixelvibe)                                                     | HTML , CSS , Bootstrap , Java Script , Python , Django |
+| [Cool Front-End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates)                     | HTML , CSS , Bootstrap                                 |
+| [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)                               | HTML , CSS , Bootstrap                                 |
+| [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects)                               | HTML , CSS , Bootstrap, JS                             |
+| [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources) | Documentation                                          |
+| [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs)                             | documentaion                                           |
 
 ## show some ❤️&nbsp; by giving the star to this repo
