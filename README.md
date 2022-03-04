@@ -33,9 +33,9 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
  <h3 align="center">
     <a href="https://discord.gg/gtYUZQSjTt">👋 Join our discord community <strong>CodeSmashers</strong> </a>
     </h3>
-    
-    
-## ⭐ STAR THIS REPOSITORY THIS WILL PAY OFF MY WORK 
+
+
+## ⭐ STAR THIS REPOSITORY THIS WILL PAY OFF MY WORK
 </div>
 <hr>
 
@@ -94,12 +94,12 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 <li>Open Git bash where you want to clone the project and clone it </li>
  <li>Clone it</li>
 <li>Run Command and Hit Enter <br>
- 
+
  ```
  git clone <the link you just copied>
  ```
  <img width="70%" align="center"  src="gitclone.png"><br><br>
- 
+
  In this case it is <br> ``` git clone  https://github.com/arpit456jain/Getting-Started-with-open-source.git ```
   </li>
  <li> After you hit enter you will notice that some downloading will start. It's actually cloning of repo form your GitHub repository to your local system.</li><br>
@@ -129,30 +129,30 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 	git fetch --all --prune<br>
 	2. Reset the main branch of origin to upstream<br>
 	git reset --hard upstream/main<br><br>
-	
+
  <img width="50%" align="center"  src="pullorigin.png"><br><br>
- 
+
  <li> make a new branch and then make the changes , then commit them. make sure to commit to the new branch <br>
  <b>Never commit in master branch</b> </li>
- 
+
  ```
  git checkout -b new_branch_name
  git add -A
  git commit -a -m "message"
  ```
  <li>After commiting your changes on your local host you have to push that changes to GitHub , make sure you push the new branch </li>
- 
+
  ```
 git push origin new_branch_name
  ```
 
 </ul>
-  
+
 ### 6. Make the Pull Request
 <ul>
 <li>when you push the changes you will notice a new branch will be created on GitHub and there will be a green button for creating pull request. Click on it.</li>
 <br>
-<img width="80%" align="center"  src="createPR.png"><br><br> 
+<img width="80%" align="center"  src="createPR.png"><br><br>
 <li>After this a new page will be open like this</li>
 <img width="80%" align="center"  src="PR.png"><br><br>
 <li>Now add a title and description of your PR and click on create pull request.</li>
@@ -249,12 +249,12 @@ After finalizing and completing the code, the branch can be merged with the main
 ### 1. Git checkout
 
 <li>You can use the checkout command to switch the branch that you are currently working on. </li>
- 
+
  ```
 git checkout <branch name>
  ```
 <li>You can use the checkout command with `-b` to create a new branch and switch to the same. </li>
- 
+
  ```
 git checkout -b <branch name>
  ```
@@ -262,7 +262,7 @@ git checkout -b <branch name>
 ### 2. Git init
 
 <li>This is the command you need to use if you want to start a new empty repository or to reinitialize an existing one in the project root. It will create a .git directory with its subdirectories. </li>
- 
+
  ```
 git init <repository name>
  ```
@@ -270,19 +270,19 @@ git init <repository name>
 ### 3. Git diff
 
 <li>You can use this command to see the unstaged changes on the current branch. </li>
- 
+
  ```
 git diff
  ```
 
 <li>If you want to see the staged changes. </li>
- 
+
  ```
 git diff --staged
  ```
 
 <li>Or you can compare two branches: </li>
- 
+
  ```
 gif diff <branch1> <branch2>
  ```
@@ -290,13 +290,13 @@ gif diff <branch1> <branch2>
 ### 4. Git add
 
 <li>This is the command you need to use to stage changed files. You can stage individual files. </li>
- 
+
  ```
 git add <file path>
  ```
 
 <li>You can also stage all files. </li>
- 
+
  ```
 git add .
  ```
@@ -304,19 +304,19 @@ git add .
 ### 5. Git branch
 
 <li>Using git branch will list all the branches of the repository. </li>
- 
+
  ```
 git branch
  ```
 
 <li>Or you can use it to create a new branch, without checking it out. </li>
- 
+
  ```
 git branch <new branch>
  ```
 
 <li>To delete a branch. </li>
- 
+
  ```
 git branch -d <branch name>
  ```
@@ -324,13 +324,13 @@ git branch -d <branch name>
 ### 6. Git log
 
 <li>If you want to see what you have committed till now. </li>
- 
+
  ```
 git log
  ```
 
 <li>If you want to see last 5 commits among 100000 commits. </li>
- 
+
  ```
 git log -p -1
  ```
@@ -338,7 +338,7 @@ git log -p -1
 ### 7. Git merge
 
 <li>Merge the changes made in a staging branch into the stable branch. </li>
- 
+
  ```
 git merge <branch_name>
  ```
@@ -348,25 +348,25 @@ git merge <branch_name>
  <p>Remove files or directories from the working index (staging area). With git rm, there are two options to keep in mind: force and cached. Running the command with force deletes the file. The cached command removes the file from the working index. When removing an entire directory, a recursive command is necessary.</p>
 
 <li>To remove a file from the working index (cached) </li>
- 
+
  ```
 git rm --cached <file name>
  ```
 
 <li>To delete a file (force) </li>
- 
+
  ```
 git rm -f <file name>
  ```
 
 <li>To remove an entire directory from the working index (cached) </li>
- 
+
  ```
 git rm -r --cached <directory name>
  ```
 
 <li>To delete an entire directory (force) </li>
- 
+
  ```
 git rm -r -f <file name>
  ```
@@ -376,21 +376,21 @@ git rm -r -f <file name>
  <p>To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory. For instance, when working on a new feature that’s not complete, but an urgent bug needs attention. </p>
 
 <li>Store current work with untracked files </li>
- 
+
  ```
 git stash -u
  ```
 
 <li>Bring stashed work back to the working directory </li>
- 
+
  ```
 git stash pop
  ```
- 
+
  ### 10. Git clear
 
 <li>To clean git bash. </li>
- 
+
  ```
 git clear
  ```
@@ -435,15 +435,15 @@ Working with snapshots and the Git staging area
 ### 1. git status
 
 <li>show modified files in working directory, staged for your next commit </li>
- 
+
  ### 2. git add [file]
 
 <li>add a file as it looks now to your next commit (stage). This area contains a list of all the files you have recently changed. It tells Git that you want to include updates to a particular file in the next commit. </li>
- 
+
  ### 3. git reset [file]
 
 <li>Remove the specified file from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes. </li>
- 
+
  ### 4. git diff
 
  <li>diff of what is changed but not staged  </li>
@@ -536,7 +536,7 @@ Retrieving updates from another repository and updating local repos
 
 -   #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 -   #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
-	
+
 	<br><br><b><h2>Video Link:</h2></b>https://youtu.be/apGV9Kg7ics
 	<br>This video will help you to begin with Git and Github and start hosting projects on github or work on existing projects.<br>
 
@@ -575,7 +575,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **M** <br>
     -   [Manish Agrahari](https://github.com/manish831)
      -  [Malay Dewangan](https://github.com/Malaydewangan09)
-    
+
     -   [Mitali Garg](https://github.com/Mitali-13)
 -   ### **N** <br>
     -   [Neha Ajith](https://github.com/neha-ajith)
@@ -598,11 +598,12 @@ Retrieving updates from another repository and updating local repos
     -   [Visinigiri Aditya](https://github.com/adityakumar48)
     -   [Vyom Gupta](https://github.com/vyomguptaa)
     -   [Vamshi Muluguri](https://github.com/vamshi726)
-	
+
 -   ### **W** <br>
 -   ### **X** <br>
 -   ### **Y** <br>
     -   [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
+    -   [Vikash] (https://github.com/Vikashrock45)
 -   ### **Z** <br>
 
    <h1 align=center> Project Admins ❤️ </h1>
@@ -638,8 +639,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 | [PixelVibe](https://github.com/ankitapuri/pixelvibe) | HTML , CSS , Bootstrap , Java Script , Python , Django |
 | [Cool Front-End Templates](https://github.com/arpit456jain/Cool-Front-End_Templates) | HTML , CSS , Bootstrap |
 | [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects) | HTML , CSS , Bootstrap |
-| [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects) | HTML , CSS , Bootstrap, JS | 
+| [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects) | HTML , CSS , Bootstrap, JS |
 | [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources) |Documentation |
-| [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion | 
+| [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion |
 
 ## show some ❤️&nbsp; by giving the star to this repo
