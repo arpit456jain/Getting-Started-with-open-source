@@ -571,6 +571,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **K** <br>
     -   [Kumari Astha Rani](https://github.com/astha2412)
     -   [Km Alan](https://github.com/alankemboi)
+    -   [Kanchan](https://github.com/kanchan905)
 -   ### **L** <br>
 -   ### **M** <br>
     -   [Manish Agrahari](https://github.com/manish831)
