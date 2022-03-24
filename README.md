@@ -555,6 +555,7 @@ Retrieving updates from another repository and updating local repos
     -   [Ankita Puri](https://github.com/ankitapuri)
     -   [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
     -   [Ananya Redhu](https://github.com/ananzzz)
+    -   [Ankita Kumari](https://github.com/Ankita-21)
     -   [Atul Kesharwani](https://github.com/Atu77l)
     -   [Abhiyodaya Pandey](https://github.com/Abhiyodaya2002)
 -   ### **B** <br>
@@ -572,6 +573,7 @@ Retrieving updates from another repository and updating local repos
     -   [Kumari Astha Rani](https://github.com/astha2412)
     -   [Km Alan](https://github.com/alankemboi)
     -   [Kanchan](https://github.com/kanchan905)
+    -   [Karan Boro](https://github.com/slothtae)
 -   ### **L** <br>
 -   ### **M** <br>
     -   [Manish Agrahari](https://github.com/manish831)
@@ -584,6 +586,7 @@ Retrieving updates from another repository and updating local repos
     -   [nitish saini](https://github.com/nitishsaini706)
 -   ### **O** <br>
 -   ### **P** <br>
+    -	[Prajwal Vijaykumar Mali](https://github.com/prajwalmali)
 -   ### **Q** <br>
 -   ### **R** <br>
 -   ### **S** <br>
@@ -594,7 +597,9 @@ Retrieving updates from another repository and updating local repos
     -   [Sanskriti Singh](https://github.com/ssanskriti-25)
     -	[Susmita Dey](https://github.com/Susmita-Dey)
 -   ### **T** <br>
+    -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
+    -    [Urvi Gupta](https://github.com/urviigupta)
 -   ### **V** <br>
     -   [Visinigiri Aditya](https://github.com/adityakumar48)
     -   [Vyom Gupta](https://github.com/vyomguptaa)
@@ -612,6 +617,7 @@ Retrieving updates from another repository and updating local repos
   <tbody><tr>
      <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
      <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
+	 <td align="center"><a href="https://github.com/astha2412"><img alt="" src="https://avatars.githubusercontent.com/astha2412" width="100px;"><br><sub><b> Kumari Astha Rani</b></sub></a><br></td></a></td>
 
 </tbody></table>
 <h2 align=center> ✨ Contributors </h2>
