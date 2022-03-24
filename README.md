@@ -596,6 +596,7 @@ Retrieving updates from another repository and updating local repos
     -   [Sanskriti Singh](https://github.com/ssanskriti-25)
     -	[Susmita Dey](https://github.com/Susmita-Dey)
 -   ### **T** <br>
+    -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
     -    [Urvi Gupta](https://github.com/urviigupta)
 -   ### **V** <br>
