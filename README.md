@@ -598,6 +598,7 @@ Retrieving updates from another repository and updating local repos
     -   [Suyash Gupta](https://github.com/sgalpha01)
     -   [Sanskriti Singh](https://github.com/ssanskriti-25)
     -	[Susmita Dey](https://github.com/Susmita-Dey)
+    -   [Sarthak Vishwakarma](https://github.com/hackbysarthak03)
 -   ### **T** <br>
     -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
