@@ -553,6 +553,7 @@ Retrieving updates from another repository and updating local repos
     -   [Arpit Jain](https://github.com/arpit456jain)
     -   [Arpit Jain](https://github.com/arpit456jain)
     -   [Amin Gholizad](https://github.com/AminGholizad)
+    -   [Ankit Verma](https://github.com/ankit1111verma)
     -   [Ankita Puri](https://github.com/ankitapuri)
     -   [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
     -   [Ananya Redhu](https://github.com/ananzzz)
@@ -560,6 +561,7 @@ Retrieving updates from another repository and updating local repos
     -   [Atul Kesharwani](https://github.com/Atu77l)
     -   [Abhiyodaya Pandey](https://github.com/Abhiyodaya2002)
     -   [Awantika Krishna](https://github.com/iwanttika16)
+    -   [Arun Kumar Yadav](https://github.com/arunindian9648)
 -   ### **B** <br>
     -   [Biswajit Debnath](https://github.com/BiswjitDebnath)
 -   ### **C** <br>
@@ -573,6 +575,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **I** <br>
 -   ### **J** <br>
 -   ### **K** <br>
+    -   [kishan maurya](https://github.com/kishanmaurya1)
     -   [Kumari Astha Rani](https://github.com/astha2412)
     -   [Km Alan](https://github.com/alankemboi)
     -   [Kanchan](https://github.com/kanchan905)
@@ -599,7 +602,9 @@ Retrieving updates from another repository and updating local repos
     -   [Suyash Gupta](https://github.com/sgalpha01)
     -   [Sanskriti Singh](https://github.com/ssanskriti-25)
     -	[Susmita Dey](https://github.com/Susmita-Dey)
+    -   [Sarthak Vishwakarma](https://github.com/hackbysarthak03)
 -   ### **T** <br>
+    -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
     -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
     -    [Urvi Gupta](https://github.com/urviigupta)
@@ -653,4 +658,4 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 | [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion | 
 
 ## show some ❤️&nbsp; by giving the star to this repo
-adding name
+adding name Neha Kumari
