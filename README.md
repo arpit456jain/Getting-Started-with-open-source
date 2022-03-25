@@ -581,6 +581,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **M** <br>
     -   [Manish Agrahari](https://github.com/manish831)
      -  [Malay Dewangan](https://github.com/Malaydewangan09)
+    -   [Manvendra Sharma](https://github.com/NULLVOID76)
     
     -   [Mitali Garg](https://github.com/Mitali-13)
 -   ### **N** <br>
@@ -599,6 +600,7 @@ Retrieving updates from another repository and updating local repos
     -   [Suyash Gupta](https://github.com/sgalpha01)
     -   [Sanskriti Singh](https://github.com/ssanskriti-25)
     -	[Susmita Dey](https://github.com/Susmita-Dey)
+    -   [shriyansh singh](https://github.com/Shriyanshs17)
 -   ### **T** <br>
     -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
