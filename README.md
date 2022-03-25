@@ -604,6 +604,7 @@ Retrieving updates from another repository and updating local repos
     -   [Sarthak Vishwakarma](https://github.com/hackbysarthak03)
 -   ### **T** <br>
     -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
+    -   [Tushar Kesarwani](https://github.com/TusharKesarwani)
 -   ### **U** <br>
     -    [Urvi Gupta](https://github.com/urviigupta)
 -   ### **V** <br>
