@@ -551,7 +551,6 @@ Retrieving updates from another repository and updating local repos
 -   ### **A** <br>
 
     -   [Arpit Jain](https://github.com/arpit456jain)
-    -   [Arpit Jain](https://github.com/arpit456jain)
     -   [Amin Gholizad](https://github.com/AminGholizad)
     -   [Ankit Verma](https://github.com/ankit1111verma)
     -   [Ankita Puri](https://github.com/ankitapuri)
