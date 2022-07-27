@@ -566,6 +566,8 @@ Retrieving updates from another repository and updating local repos
 -   ### **C** <br>
 -   ### **D** <br>
     -   [Dev Patel](https://github.com/devp73)
+    -   [Dinki Yaduwanshi](https://github.com/anonymousdaisy5)
+    
 -   ### **E** <br>
 -   ### **F** <br>
 -   ### **G** <br>
