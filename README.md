@@ -619,6 +619,7 @@ Retrieving updates from another repository and updating local repos
 -   ### **X** <br>
 -   ### **Y** <br>
     -   [Yanala shivaprasad reddy](https://github.com/shivaprasadyanala)
+    -   [Yash Gupta](https://github.com/yashg-116)
 -   ### **Z** <br>
 
    <h1 align=center> Project Admins ❤️ </h1>
