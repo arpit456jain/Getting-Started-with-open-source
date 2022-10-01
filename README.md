@@ -626,7 +626,6 @@ Retrieving updates from another repository and updating local repos
 <table>
   <tbody><tr>
      <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
 	 
 </tbody></table>
 <h2 align=center> ✨ Contributors </h2>
@@ -659,4 +658,3 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀
 | [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs) | documentaion | 
 
 ## show some ❤️&nbsp; by giving the star to this repo
-adding name Neha Kumari
