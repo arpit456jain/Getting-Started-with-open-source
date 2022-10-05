@@ -573,6 +573,8 @@ Retrieving updates from another repository and updating local repos
 -   ### **G** <br>
 -   ### **H** <br>
     -   [Himansh](https://github.com/ruhend)
+    -   [Harshit Rai](https://github.com/Harshitr10)
+    
 -   ### **I** <br>
 -   ### **J** <br>
 -   ### **K** <br>
