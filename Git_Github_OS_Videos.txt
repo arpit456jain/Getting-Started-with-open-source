@@ -1,0 +1,16 @@
+Git and GitHub Video Resources:
+
+- https://youtu.be/uj4fy4kpaOA
+- https://youtu.be/gwWKnnCMQ5c
+- https://youtu.be/RGOj5yH7evk
+- https://youtu.be/eL_0Ok_Gkas
+
+Open Source Video Resources:
+
+- https://youtu.be/SXW_bA4SGqA
+- https://youtu.be/yzeVMecydCE
+- https://youtu.be/msyGybzCKRs
+
+A Tutorial Video showing Contributing to Open Source for the first time:
+
+- https://youtu.be/c6b6B9oN4Vg
