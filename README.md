@@ -63,7 +63,7 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 </ul><br>
 <hr>
 
-### 2. You should have an account on GitHub if you you dont't have an account then simply make it.
+### 2. You should have an account on GitHub if you you don't have an account then simply make it.
 
 ### 3. You will need a text editor accoring to your comfort , I prefer Vs code
 
@@ -88,9 +88,9 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 <ul>
 <li>Fork this Repository or Project</li>
  <li> This will create a copy of this repository in your account.</li>
-<img width="50%" align="center" src="fork.png"><br><br>
+<img width="50%" align="center" src="images/fork.png"><br><br>
 <li>Copy the link of the Repository</li><br>
-<img width="50%" align="center"  src="clone.png"><br><br>
+<img width="50%" align="center"  src="images/clone.png"><br><br>
 <li>Open Git bash where you want to clone the project and clone it </li>
  <li>Clone it</li>
 <li>Run Command and Hit Enter <br>
@@ -98,17 +98,17 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
  ```
  git clone <the link you just copied>
  ```
- <img width="70%" align="center"  src="gitclone.png"><br><br>
+ <img width="70%" align="center"  src="images/gitclone.png"><br><br>
  
  In this case it is <br> ``` git clone  https://github.com/arpit456jain/Getting-Started-with-open-source.git ```
   </li>
  <li> After you hit enter you will notice that some downloading will start. It's actually cloning of repo form your GitHub repository to your local system.</li><br>
- <img width="60%" align="center"  src="clonning.png">
+ <img width="60%" align="center"  src="images/clonning.png">
  <li> After this you will notice a folder is created with the name of repository </li><br>
- <img width="15%" align="center"  src="folder.png"><br><br>
+ <img width="15%" align="center"  src="images/folder.png"><br><br>
  <li>Then just close the Git bash and open this folder in your preferred text editor...</li><br>
  <li>Here is an example in VS Code. </li><br>
- <img width="100%" align="center"  src="vscode.png"><br><br>
+ <img width="100%" align="center"  src="images/vscode.png"><br><br>
 </ul>
 
 ### 5. Now Make necessary changes and commit them , lets say you have to add your name in readme , you already set up the project in local system . Now before starting your work always rembember to pull latest change from the main Repo.
@@ -116,7 +116,7 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 <ul>
 
  <li>Fetch And Merge </li><br>
- <img width="50%" align="center"  src="fetch.png"><br>
+ <img width="50%" align="center"  src="images/fetch.png"><br>
 	<br>
  <li>Pull these changes in your local system</li>
  	<br>
@@ -130,7 +130,7 @@ To earn your **`Hacktoberfest T-Shirt`** or tree reward, you must register and m
 	2. Reset the main branch of origin to upstream<br>
 	git reset --hard upstream/main<br><br>
 	
- <img width="50%" align="center"  src="pullorigin.png"><br><br>
+ <img width="50%" align="center"  src="images/pullorigin.png"><br><br>
  
  <li> make a new branch and then make the changes , then commit them. make sure to commit to the new branch <br>
  <b>Never commit in master branch</b> </li>
@@ -152,13 +152,13 @@ git push origin new_branch_name
 <ul>
 <li>when you push the changes you will notice a new branch will be created on GitHub and there will be a green button for creating pull request. Click on it.</li>
 <br>
-<img width="80%" align="center"  src="createPR.png"><br><br> 
+<img width="80%" align="center"  src="images/createPR.png"><br><br> 
 <li>After this a new page will be open like this</li>
-<img width="80%" align="center"  src="PR.png"><br><br>
+<img width="80%" align="center"  src="images/PR.png"><br><br>
 <li>Now add a title and description of your PR and click on create pull request.</li>
 <br>
 <li>Congrats 🎉 your Pull Request is created</li><br>
-<img width="80%" align="center"  src="PRcreated.png"><br><br>
+<img width="80%" align="center"  src="images/PRcreated.png"><br><br>
 </ul>
 
 ---
@@ -167,7 +167,7 @@ git push origin new_branch_name
 
 ### 1. Updates were rejected or failed to push some refs.
 
-<img width="80%" align="center"  src="error1.png"><br>
+<img width="80%" align="center"  src="images/error1.png"><br>
 
 <p> This is most common error you will find and its pretty easy to solve . </p>
 <br>
@@ -184,7 +184,7 @@ Note : if your repo is a forked one and its some commit behind then first fetch 
 
 ### 2. Unable to detect identity.
 
-<img width="80%" align="center"  src="Error2.png"><br>
+<img width="80%" align="center"  src="images/Error2.png"><br>
 
 <p> Its pretty easy to solve . </p>
 <br>
@@ -200,7 +200,7 @@ git config --global user.email youremail@example.com
 
 ### 3. Remote origin already exists.
 
-<img width="80%" align="center" src="Error3.png"><br>
+<img width="80%" align="center" src="images/Error3.png"><br>
 
 <p>It is easy to solve<p>
 <br>
@@ -212,7 +212,7 @@ git remote set-url origin <repository url>
 
 ### 3. Refusing to merge unrelated histories.
 
-<img width="80%" align="center" src="Error4.png"><br>
+<img width="80%" align="center" src="images/Error4.png"><br>
 
 <p>This error appears when some of your ambiguous actions confuse Git on how to function further.<p>
 <br>
@@ -224,7 +224,7 @@ git pull origin master –allow-unrelated-histories
 
 ### 3. OpenSSL SSL_read: Connection was reset.
 
-<img width="80%" align="center" src="Error5.png"><br>
+<img width="80%" align="center" src="images/Error5.png"><br>
 
 <p>This is the SSL certificate of the server that has not been signed by a third party, so an error is reported.<p>
 <br>
