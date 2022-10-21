@@ -15,19 +15,19 @@ h1 {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.45em;
   text-align: center;
-  padding: 15px 20px;
-  position: relative;
+  padding: 18px 30px;
+  position: absolute;
 }
 h1:after {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
   content: "";
-  display: block;
-  height: 2px;
+  display:flex;
+  height: 5px;
   left: 50%;
-  position: absolute;
+  position: relative;
   background: #fff;
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0;
@@ -59,7 +59,7 @@ h1:hover:after {
   border: none;
   width: 15rem;
   justify-content: center;
-  transition: 0.2s;
+  transition: 0.5s;
 }
 .stylebox:hover {
   transform: scale(1.02);
@@ -75,7 +75,7 @@ h1:hover:after {
   background-size: cover;
   width: 100%;
   height: 100%;
-  border-radius: 0.5rem;
+  border-radius: 0.8rem;
   image-rendering: pixelated;
 }
 .stylebox p {
@@ -87,7 +87,7 @@ h1:hover:after {
 .stylebox .btn-group {
   display: flex;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 3rem;
 }
 .stylebox a {
   background-color: white;
@@ -114,7 +114,7 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
   .styles {
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
