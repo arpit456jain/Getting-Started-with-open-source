@@ -570,6 +570,7 @@ Retrieving updates from another repository and updating local repos
     
 -   ### **E** <br>
 -   ### **F** <br>
+    -   [Fiona](https://github.com/fionahiiwx)
 -   ### **G** <br>
 -   ### **H** <br>
     -   [Himansh](https://github.com/ruhend)
@@ -589,7 +590,7 @@ Retrieving updates from another repository and updating local repos
     -   [Mitali Garg](https://github.com/Mitali-13)
 -   ### **N** <br>
     -   [Neha Ajith](https://github.com/neha-ajith)
-    -    [Naveen kushwaha](https://github.com/naveen3011)
+    -   [Naveen kushwaha](https://github.com/naveen3011)
     -   [nitish saini](https://github.com/nitishsaini706)
 -   ### **O** <br>
 -   ### **P** <br>
